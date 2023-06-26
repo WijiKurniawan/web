@@ -55,7 +55,7 @@
 		<div class="container">
 			<center>
 				<video video playsinline autoplay muted loop controlsList=”nodownload” controls="controls" width="860" height="515">
-					<source src="https://mywebprofile-bucket.s3.amazonaws.com/sample+video+company+profile.mp4" type="video/mp4">
+					<source src="https://media-wiji-1123.s3.amazonaws.com/corporate+video+for+IT+company+_+corporate+video+for+Perfectial.mp4" type="video/mp4">
 				</video>
 				<!-- <iframe width="860" height="515" src="https://www.youtube.com/embed/QyhwSYhX09s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 			</center>
